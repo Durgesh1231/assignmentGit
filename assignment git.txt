@@ -1,0 +1,60 @@
+Ans 1.
+
+Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
+It is used for:
+1.Tracking code changes
+2.Tracking who made changes
+3.Coding collaboration
+
+Ans 2.
+
+Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code. 
+
+Ans 3.
+
+GitHub is a code hosting platform for collaboration and version control.
+GitHub lets you (and others) work together on projects.
+
+Ans 4.
+
+1.Bitbucket
+2.GitHub
+3.GitLab
+4.Perforce
+5.Beanstalk
+6.Amazon AWS CodeCommit
+7.Codebase
+8.Microsoft Azure DevOps
+9.SourceForge
+10.Gerrit
+
+Ans 5.
+
+There are two types of version control: 
+1.centralized VCS       2.distributed VCS
+
+Ans 6.
+1.Free and open source.
+2.fast and small.
+3.implicit backup.
+4.security.
+
+Ans 7.
+Repositories in GIT contain a collection of files of various different versions of a Project. These files are imported from the repository into the local server of the user for further updations and modifications in the content of the file.
+
+Ans 8.
+Initializing a new repository: git init
+
+
+
+
+
+
+
+
+
+
+
+
+
+
